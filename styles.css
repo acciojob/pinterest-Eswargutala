@@ -15,10 +15,9 @@ body {
 
         /* Image Styling */
         .hero img {
-            width: 400px;
+            width: 50%;
             height: 300px;
             object-fit: cover;
-            border-radius: 10px;
         }
 
         /* Content Section */
